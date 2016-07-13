@@ -2,7 +2,7 @@
 /// Building Script
 /// This script is use for reset building on pattern when character die.
 /// </summary>
-
+//xiugaivvvvvvvvvvvvvv
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
